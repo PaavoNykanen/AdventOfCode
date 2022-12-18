@@ -1,11 +1,17 @@
 # AdventOfCode
-Advent of code koodaushaasteita. Tein kaikki Pythonilla, sillä halusin opetella sitä.
+Advent of code coding challenges.
 
+### 2022
 ## Day 1
-Numeroista piti löytää kolme numeroa joiden summa on 2020 ja palautetaan niiden tulo.
+Given a list of calories of different elves. Different elves are separated by an empty line in the calorie file.
+Count the sum of all calories for all elves and find the biggest amount of calories. 
+
+### 2020
+## Day 1
+Given an input of different numbers I had to find the ones that would sum to the number 2020 and return their multiplication.
 
 ## Day 2
-Tarkistetaan monessako rivestä löytyy rivillä ensimmäisenä oleva kirjain niin monta kertaa kuin rivin alussa on kerrottu.
+Check how many of the input files rows go trough the following check. Check if the first given letter appears in the given string within the limit of times given at the start of the row.
 
 ## Day 3
-Piti laskea moneenko risuaitaan osutaan jos liikutaan kerrallaan yksi rivi alas ja 3 oikealle. Vikassa versiossa liikutaan 1 alas 3 oikealle, 1 alas 1 oikealle, 1 alas 5 oikealle, 1 alas ja 7 oikealle ja lopuksi 1 oikealle 2 alas.
+Had to count how many times we hit a hashtag when moving trough the input string by moving one row down and 3 to the right. In the second version we move 1 down 3 right, 1 down 1 right, 1 down 5 rigth, 1 down 7 right and 1 right and 2 down.
